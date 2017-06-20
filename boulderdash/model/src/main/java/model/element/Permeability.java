@@ -8,5 +8,6 @@ public enum Permeability {
 	COLLECTABLE,
 	SOLID,
 	ENTRY,
+	OUI,
 	UNBREAKBLE;
 }
