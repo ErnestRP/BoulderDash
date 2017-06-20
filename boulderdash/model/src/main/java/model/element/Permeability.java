@@ -7,7 +7,6 @@ public enum Permeability {
 	DESTROY,
 	COLLECTABLE,
 	SOLID,
-	ENTRY,
-	OUI,
+	EXIT,
 	UNBREAKBLE;
 }
