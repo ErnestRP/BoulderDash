@@ -18,7 +18,7 @@ public class BoulderDashView extends JFrame{
 			fenetre.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // si on clique sur la croix rouge on ferme la fenetre 
 			fenetre.setSize(500, 500);// on initialise la taille de la fenetre 
 			fenetre.setLocationRelativeTo(null); // on centre la fenetre sur l'ecran 
-			fenetre.setResizable(false);//on interdie la redimention de la fenetre 
+			fenetre.setResizable(false);//on interdie la redimension de la fenetre 
 			fenetre.setAlwaysOnTop(true);// pour que la fenetre soit devant toutes les autres
 			
 			//Instanciation de l'objet scene
