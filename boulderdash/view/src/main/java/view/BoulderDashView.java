@@ -13,7 +13,7 @@ public class BoulderDashView extends JFrame{
 		public static BoulderDashView  boulderdashview;
 {
 			
-			// création de la fenetre pour l'application
+			// creation de la fenetre pour l'application
 			JFrame fenetre = new JFrame(" BuilderDash"); //on donne un nom a la fenetre
 			fenetre.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // si on clique sur la croix rouge on ferme la fenetre 
 			fenetre.setSize(500, 500);// on initialise la taille de la fenetre 
